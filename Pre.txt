@@ -1,1 +1,0 @@
-Machine learning, as the name suggests, is where computers gain the ability to learn without being completely programmed to do so.
